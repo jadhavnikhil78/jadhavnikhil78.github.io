@@ -1,4 +1,4 @@
-# Chirag Jain
+# Nikhil Jadhav
 
 My professional portfolio containing my education history, experiences and projetcs.
-Go to - https://chiragcj96.github.io/ to visit.
+Go to - https://jadhavnikhil78.github.io/ to visit.
